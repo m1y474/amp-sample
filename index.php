@@ -20,7 +20,7 @@
     <h1 id="hello">Hello AMPHTML World!</h1>
     <p>php</p>
     <amp-img src="/assets/img/dummy.png" alt="dummy" width="150" height="150"></amp-img>
-    <amp-twitter width="400" height="600" layout="responsive" data-tweet-id="1459902068664135684"></amp-twitter>
+    <amp-twitter width="400" height="600" layout="responsive" data-tweetid="1459902068664135684"></amp-twitter>
   </body>
 </html>
 
